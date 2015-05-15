@@ -1,3 +1,4 @@
 <?php
 	echo "Hellow World";
+	echo "‚±‚ñ‚É‚¿‚Í¢ŠE‚ÌŠF—lI";
 ?>
