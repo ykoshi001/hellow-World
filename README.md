@@ -1,3 +1,3 @@
 #Github TEST Hellow World
-#GIThub テスト１
-#Github テスト２
+#GIThub TEST1
+#Github TEST2
